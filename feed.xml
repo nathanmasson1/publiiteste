@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>bbb</title>
+    <link href="https://nathanmasson1.github.io/publiiteste/feed.xml" rel="self" />
+    <link href="https://nathanmasson1.github.io/publiiteste" />
+    <updated>2026-04-06T20:51:25-03:00</updated>
+    <author>
+        <name>bb</name>
+    </author>
+    <id>https://nathanmasson1.github.io/publiiteste</id>
+
+    <entry>
+        <title>ffgfg</title>
+        <author>
+            <name>bb</name>
+        </author>
+        <link href="https://nathanmasson1.github.io/publiiteste/ffgfg.html"/>
+        <id>https://nathanmasson1.github.io/publiiteste/ffgfg.html</id>
+
+        <updated>2026-04-06T20:51:25-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    fgfgfgfg
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>fgfgfgfg</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
