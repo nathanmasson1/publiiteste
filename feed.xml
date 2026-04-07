@@ -1,32 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>bbb</title>
+    <title>ccc</title>
     <link href="https://nathanmasson1.github.io/publiiteste/feed.xml" rel="self" />
     <link href="https://nathanmasson1.github.io/publiiteste" />
-    <updated>2026-04-06T20:51:25-03:00</updated>
+    <updated>2026-04-06T21:09:03-03:00</updated>
     <author>
-        <name>bb</name>
+        <name>ccc</name>
     </author>
     <id>https://nathanmasson1.github.io/publiiteste</id>
 
     <entry>
-        <title>ffgfg</title>
+        <title>p1</title>
         <author>
-            <name>bb</name>
+            <name>ccc</name>
         </author>
-        <link href="https://nathanmasson1.github.io/publiiteste/ffgfg.html"/>
-        <id>https://nathanmasson1.github.io/publiiteste/ffgfg.html</id>
+        <link href="https://nathanmasson1.github.io/publiiteste/p1.html"/>
+        <id>https://nathanmasson1.github.io/publiiteste/p1.html</id>
 
-        <updated>2026-04-06T20:51:25-03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    fgfgfgfg
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>fgfgfgfg</p>
-            ]]>
-        </content>
+        <updated>2026-04-06T21:09:03-03:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>
