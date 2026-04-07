@@ -456,18 +456,16 @@ window.addEventListener('scroll', () => {
 // Load search input area
 const searchButton = document.querySelector('.js-search-btn');
 const searchOverlay = document.querySelector('.js-search-overlay');
+const searchInput = document.querySelector('input[type="search"]');
 
-if (searchButton && searchOverlay) {
+if (searchButton && searchOverlay && searchInput) {
     searchButton.addEventListener('click', (event) => {
         event.stopPropagation();
         searchOverlay.classList.toggle('expanded');
 
         if (searchOverlay.classList.contains('expanded')) {
             setTimeout(() => {
-                const element = searchOverlay.querySelector('input, button');
-                if (element) {
-                    element.focus();
-                }
+                searchInput.focus();
             }, 60);
         }
     });
