@@ -3,12 +3,32 @@
     <title>ccc</title>
     <link href="https://nathanmasson1.github.io/publiiteste/feed.xml" rel="self" />
     <link href="https://nathanmasson1.github.io/publiiteste" />
-    <updated>2026-04-06T21:18:27-03:00</updated>
+    <updated>2026-04-06T21:35:10-03:00</updated>
     <author>
         <name>ccc</name>
     </author>
     <id>https://nathanmasson1.github.io/publiiteste</id>
 
+    <entry>
+        <title>boa</title>
+        <author>
+            <name>ccc</name>
+        </author>
+        <link href="https://nathanmasson1.github.io/publiiteste/boa.html"/>
+        <id>https://nathanmasson1.github.io/publiiteste/boa.html</id>
+
+        <updated>2026-04-06T21:35:10-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    dfdfdffddffddf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>dfdfdffddffddf</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>p1</title>
         <author>
