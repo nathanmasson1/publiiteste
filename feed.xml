@@ -3,30 +3,54 @@
     <title>ccc</title>
     <link href="https://nathanmasson1.github.io/publiiteste/feed.xml" rel="self" />
     <link href="https://nathanmasson1.github.io/publiiteste" />
-    <updated>2026-04-06T21:42:22-03:00</updated>
+    <updated>2026-04-25T13:23:51-03:00</updated>
     <author>
-        <name>nathan</name>
+        <name>ccc</name>
     </author>
     <id>https://nathanmasson1.github.io/publiiteste</id>
 
     <entry>
-        <title>salve</title>
+        <title>jj</title>
         <author>
-            <name>nathan</name>
+            <name>ccc</name>
         </author>
-        <link href="https://nathanmasson1.github.io/publiiteste/salve.html"/>
-        <id>https://nathanmasson1.github.io/publiiteste/salve.html</id>
+        <link href="https://nathanmasson1.github.io/publiiteste/jj.html"/>
+        <id>https://nathanmasson1.github.io/publiiteste/jj.html</id>
 
-        <updated>2026-04-06T21:42:22-03:00</updated>
+        <updated>2026-04-25T13:23:51-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>boa</title>
+        <author>
+            <name>ccc</name>
+        </author>
+        <link href="https://nathanmasson1.github.io/publiiteste/boa.html"/>
+        <id>https://nathanmasson1.github.io/publiiteste/boa.html</id>
+
+        <updated>2026-04-06T21:35:10-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                    sdsdsd
+                    dfdfdffddffddf
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>sdsdsd</p>
+                <p>dfdfdffddffddf</p>
             ]]>
         </content>
+    </entry>
+    <entry>
+        <title>p1</title>
+        <author>
+            <name>ccc</name>
+        </author>
+        <link href="https://nathanmasson1.github.io/publiiteste/p1.html"/>
+        <id>https://nathanmasson1.github.io/publiiteste/p1.html</id>
+
+        <updated>2026-04-06T21:09:03-03:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>
