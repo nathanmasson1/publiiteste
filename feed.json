@@ -5,48 +5,23 @@
     "home_page_url": "https://nathanmasson1.github.io/publiiteste",
     "feed_url": "https://nathanmasson1.github.io/publiiteste/feed.json",
     "user_comment": "",
-    "icon": "https://nathanmasson1.github.io/publiiteste/media/website/macaco-2.JPG",
     "author": {
-        "name": "ccc"
+        "name": "nathan"
     },
     "items": [
         {
-            "id": "https://nathanmasson1.github.io/publiiteste/jj.html",
-            "url": "https://nathanmasson1.github.io/publiiteste/jj.html",
-            "title": "jj",
+            "id": "https://nathanmasson1.github.io/publiiteste/salve.html",
+            "url": "https://nathanmasson1.github.io/publiiteste/salve.html",
+            "title": "2salve",
+            "summary": "sdsdsd",
+            "content_html": "<p>sdsdsd</p>",
             "author": {
-                "name": "ccc"
+                "name": "nathan"
             },
             "tags": [
             ],
-            "date_published": "2026-04-25T13:23:51-03:00",
-            "date_modified": "2026-04-25T13:23:51-03:00"
-        },
-        {
-            "id": "https://nathanmasson1.github.io/publiiteste/boa.html",
-            "url": "https://nathanmasson1.github.io/publiiteste/boa.html",
-            "title": "boa",
-            "summary": "dfdfdffddffddf",
-            "content_html": "<p>dfdfdffddffddf</p>",
-            "author": {
-                "name": "ccc"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-04-06T21:35:10-03:00",
-            "date_modified": "2026-04-06T21:35:10-03:00"
-        },
-        {
-            "id": "https://nathanmasson1.github.io/publiiteste/p1.html",
-            "url": "https://nathanmasson1.github.io/publiiteste/p1.html",
-            "title": "p1",
-            "author": {
-                "name": "ccc"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-04-06T21:09:03-03:00",
-            "date_modified": "2026-04-06T21:18:27-03:00"
+            "date_published": "2026-04-06T21:42:22-03:00",
+            "date_modified": "2026-04-25T13:20:14-03:00"
         }
     ]
 }
